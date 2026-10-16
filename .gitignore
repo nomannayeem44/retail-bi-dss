@@ -1,0 +1,11 @@
+data/
+outputs/
+.venv/
+__pycache__/
+.env
+.env.*
+*.pbix
+*.xlsx
+*.csv
+*.docx
+*.pdf
